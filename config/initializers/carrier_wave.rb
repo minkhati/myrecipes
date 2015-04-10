@@ -9,13 +9,3 @@ if Rails.env.production?
     config.fog_directory = ENV['S3_BUCKET']
   end
 end
-
-Access Key ID:
-AKIAI6BJW5VXNMM4ZHTA
-Secret Access Key:
-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
-
-Access Key ID:
-AKIAJCQ2VIPO3TQ5KQXQ
-Secret Access Key:
-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
